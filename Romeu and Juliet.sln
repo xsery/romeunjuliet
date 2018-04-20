@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romeu and Juliet", "Romeu and Juliet.csproj", "{4369B69D-3022-84D3-FFFA-8F57A9CB6A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romeu and Juliet.Editor", "Romeu and Juliet.Editor.csproj", "{2E42CEBC-298D-641F-3233-CD47E45176F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4369B69D-3022-84D3-FFFA-8F57A9CB6A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4369B69D-3022-84D3-FFFA-8F57A9CB6A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4369B69D-3022-84D3-FFFA-8F57A9CB6A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4369B69D-3022-84D3-FFFA-8F57A9CB6A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E42CEBC-298D-641F-3233-CD47E45176F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E42CEBC-298D-641F-3233-CD47E45176F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E42CEBC-298D-641F-3233-CD47E45176F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E42CEBC-298D-641F-3233-CD47E45176F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
